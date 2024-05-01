@@ -16,7 +16,7 @@
 # and modified to use TensorFlow Hub modules.
 
 # pylint: disable=line-too-long
-"""Simple transfer learning with image modules from TensorFlow Hub.
+r"""Simple transfer learning with image modules from TensorFlow Hub.
 
 WARNING: This code is deprecated in favor of
 https://github.com/tensorflow/hub/tree/master/tensorflow_hub/tools/make_image_classifier
